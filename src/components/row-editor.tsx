@@ -183,7 +183,7 @@ export function RowEditor({ row, open, onOpenChange }: RowEditorProps) {
 
 function PropertyInput({
   property,
-  propertyKey,
+  // propertyKey,
   value,
   onChange,
   onAddNewOption,
